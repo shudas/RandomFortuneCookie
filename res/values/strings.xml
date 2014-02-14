@@ -3,6 +3,6 @@
 
     <string name="app_name">Random Fortune Cookie</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Welcome to the Random Fortune Cookie App!</string>
 
 </resources>
